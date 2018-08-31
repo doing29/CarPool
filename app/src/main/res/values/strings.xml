@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CarPool</string>
+    <string name="text_user_name">User name</string>
+    <string name="text_age">Age</string>
+    <string name="text_desc">Info.</string>
+    <string name="text_boy">Male</string>
+    <string name="text_girl_f">Female</string>
+    <string name="text_password">Password</string>
+    <string name="text_password_again">Password again</string>
+    <string name="text_email">Email</string>
+    <string name="text_register_remind">Check your email first, otherwise cannot login</string>
+    <string name="text_registered">Register</string>
+
+</resources>
